@@ -14,7 +14,7 @@ The output will be written to a file with the same name as the input, with ".out
 
 ### Running the script
 
-The script takes three command line arguments. The first is the name of the input file. The second is the regularization parameter, $\lambda$ in the paper. I recommend a value of $1$. The third is the threshold for matching, $\tau$ in the paper. A very high value like $100000$ is functionally as if there is no threshold. 
+The script takes three command line arguments. The first is the name of the input file. The second is the regularization parameter, lambda in the paper. I recommend a value of 1. The third is the threshold for matching, tau in the paper. A very high value like 100000 is functionally as if there is no threshold. 
 
 The command to run the script will thus look something like:
 
